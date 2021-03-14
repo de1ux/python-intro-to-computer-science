@@ -1,6 +1,7 @@
 Last week we looked at functions
 
 ![functions.png](functions.png)
+
 Remember: identify a function
 
 Why? Functions let you reuse, share your code
